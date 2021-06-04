@@ -1,4 +1,7 @@
-public class TestClass {
+import java.lang
+.Exception;
+
+public class TestClass extends java.lang.Exception {
 
 	private int a;
 
