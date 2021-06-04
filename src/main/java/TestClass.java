@@ -4,11 +4,10 @@ public class TestClass {
 
 	private int b;
 
-	public TestClass()  {
+	public TestClass()
+	{
 		a = 0;
 		b = 1;
 	}
-
-
 
 }
