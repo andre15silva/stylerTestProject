@@ -9,6 +9,7 @@ public class TestClass {
 		a = 0;
 		b = 1;
 	}
+
 	
 
 }
